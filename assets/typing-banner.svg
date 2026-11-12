@@ -1,0 +1,80 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1100" height="135"
+     viewBox="0 0 1100 135">
+
+  <defs>
+    <linearGradient id="textGradient"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="55%" stop-color="#7DCFFF"/>
+      <stop offset="100%" stop-color="#BB9AF7"/>
+    </linearGradient>
+
+    <clipPath id="typingClip">
+      <rect class="typing" x="175" y="35"
+            width="0" height="75"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .typing {
+      animation: reveal 7s steps(51, end) infinite;
+    }
+
+    .cursor {
+      animation:
+        cursorMove 7s steps(51, end) infinite,
+        blink 0.8s step-end infinite;
+    }
+
+    @keyframes reveal {
+      0%, 5%   { width: 0; }
+      50%, 65% { width: 750px; }
+      95%, 100% { width: 0; }
+    }
+
+    @keyframes cursorMove {
+      0%, 5% {
+        transform: translateX(0);
+      }
+      50%, 65% {
+        transform: translateX(750px);
+      }
+      95%, 100% {
+        transform: translateX(0);
+      }
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Animated Text -->
+  <g clip-path="url(#typingClip)">
+    <text
+      x="175"
+      y="87"
+      font-family="Consolas, monospace"
+      font-size="27"
+      fill="url(#textGradient)"
+      textLength="750"
+      lengthAdjust="spacingAndGlyphs"
+      xml:space="preserve"><tspan>Hello I'm </tspan><tspan font-weight="bold">AI Researcher &amp; Developer</tspan><tspan> Juyoung Lee</tspan></text>
+  </g>
+
+  <!-- Blinking Cursor -->
+  <rect
+    class="cursor"
+    x="175"
+    y="61"
+    width="3"
+    height="34"
+    rx="1"
+    fill="#7DCFFF"
+  />
+
+</svg>
