@@ -1,6 +1,7 @@
+
 <div align="center">
   <img src="./assets/ambient-top.svg" width="100%" alt="Ambient Gradient"/>
-  <img src="./assets/typing-banner.svg" width="100%" alt="Hello! I'm AI Researcher &amp; Developer Juyoung Lee :)"/>
+  <img src="./assets/typing-banner.svg" width="100%" alt="Typing Animation"/>
 </div>
 
 <h2 align="center">Tech Stack</h2>
@@ -11,8 +12,8 @@
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/>
       <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=black" alt="Transformers"/>
-      <img src="./assets/badges/faiss.svg" alt="FAISS" height="22"/>
-      <img src="./assets/badges/llama-cpp.svg" alt="llama.cpp" height="22"/>
+      <img src="https://img.shields.io/badge/FAISS-1676C2?style=flat" alt="FAISS"/>
+      <img src="https://img.shields.io/badge/llama.cpp-333333?style=flat" alt="llama.cpp"/>
     </td>
   </tr>
   <tr>
@@ -35,8 +36,8 @@
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm"/>
-      <img src="./assets/badges/vscode.svg" alt="VS Code" height="22"/>
-      <img src="./assets/badges/slack.svg" alt="Slack" height="22"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat" alt="Slack"/>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&amp;logo=jira&amp;logoColor=white" alt="Jira"/>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&amp;logo=notion&amp;logoColor=white" alt="Notion"/>
     </td>
@@ -44,8 +45,8 @@
   <tr>
     <td align="center"><b>AI Coding</b></td>
     <td>
-      <img src="./assets/badges/codex.svg" alt="Codex" height="22"/>
-      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&amp;logo=claude&amp;logoColor=white" alt="Claude%20Code"/>
+      <img src="https://img.shields.io/badge/Codex-171717?style=flat" alt="Codex"/>
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&amp;logo=claude&amp;logoColor=white" alt="Claude Code"/>
     </td>
   </tr>
 </table>
