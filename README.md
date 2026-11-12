@@ -5,7 +5,7 @@
   <img
     src="./assets/typing-banner.svg"
     width="100%"
-    alt="Hello I'm AI Researcher & Developer Juyoung Lee"
+    alt="Hello I'm AI Researcher & Developer Juyoung Lee :)"
   />
 
   
@@ -43,6 +43,7 @@
       <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm"/>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
     </td>
   </tr>
