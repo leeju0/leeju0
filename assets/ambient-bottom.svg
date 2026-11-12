@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Soft lavender and blue footer glow decoration">
+<defs>
+  <radialGradient id="left"><stop stop-color="#C5A9FF" stop-opacity=".48"/><stop offset="1" stop-color="#C5A9FF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="right"><stop stop-color="#84C5FF" stop-opacity=".53"/><stop offset="1" stop-color="#84C5FF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="center"><stop stop-color="#BAE9EC" stop-opacity=".3"/><stop offset="1" stop-color="#BAE9EC" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#AFB4F5" stop-opacity="0"/><stop offset=".5" stop-color="#A9C3F6" stop-opacity=".5"/><stop offset="1" stop-color="#AFB4F5" stop-opacity="0"/></linearGradient>
+</defs>
+<path d="M170 9 H1030" stroke="url(#line)" stroke-width="1"/>
+<ellipse cx="390" cy="85" rx="345" ry="86" fill="url(#left)"><animate attributeName="cx" values="390;360;390" dur="14s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="810" cy="79" rx="350" ry="85" fill="url(#right)"><animate attributeName="cx" values="810;840;810" dur="12s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="600" cy="85" rx="215" ry="65" fill="url(#center)"/>
+</svg>

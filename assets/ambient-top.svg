@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" role="img" aria-label="Soft blue and lavender gradient glow decoration">
+<defs>
+  <radialGradient id="blue"><stop stop-color="#82BCFF" stop-opacity=".58"/><stop offset="1" stop-color="#82BCFF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet"><stop stop-color="#BA9DFA" stop-opacity=".5"/><stop offset="1" stop-color="#BA9DFA" stop-opacity="0"/></radialGradient>
+  <radialGradient id="mint"><stop stop-color="#A5E6E9" stop-opacity=".34"/><stop offset="1" stop-color="#A5E6E9" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#92BBFF" stop-opacity="0"/><stop offset=".5" stop-color="#B6A8F5" stop-opacity=".6"/><stop offset="1" stop-color="#92BBFF" stop-opacity="0"/></linearGradient>
+</defs>
+<ellipse cx="385" cy="45" rx="350" ry="90" fill="url(#blue)"><animate attributeName="cx" values="385;420;385" dur="12s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="800" cy="44" rx="365" ry="94" fill="url(#violet)"><animate attributeName="cx" values="800;760;800" dur="14s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="615" cy="58" rx="235" ry="73" fill="url(#mint)"/>
+<path d="M170 111 H1030" stroke="url(#line)" stroke-width="1"/>
+</svg>
