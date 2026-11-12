@@ -26,7 +26,6 @@
   <tr>
     <td align="center"><b>Frontend &amp; Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=react&amp;logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat&amp;logo=electron&amp;logoColor=white" alt="Electron"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/>
     </td>
