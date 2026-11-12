@@ -1,23 +1,17 @@
 
 <div align="center">
+  <img src="./assets/ambient-top.svg" width="100%" alt="Ambient Gradient"/>
+  <img src="./assets/typing-banner.svg" width="100%" alt="Typing Animation"/>
+</div>
 
-  <!-- Animated Introduction -->
-  <img
-    src="./assets/typing-banner.svg"
-    width="100%"
-    alt="Hello I'm AI Researcher & Developer Juyoung Lee :)"
-  />
-
-  
-<!-- Tech Stack -->
 <h2 align="center">Tech Stack</h2>
 
 <table align="center">
   <tr>
     <td align="center"><b>AI / ML</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Transformers"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=black" alt="Transformers"/>
       <img src="https://img.shields.io/badge/FAISS-1676C2?style=flat" alt="FAISS"/>
       <img src="https://img.shields.io/badge/llama.cpp-333333?style=flat" alt="llama.cpp"/>
     </td>
@@ -25,29 +19,38 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Applications</b></td>
+    <td align="center"><b>Frontend &amp; Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=react&amp;logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat&amp;logo=electron&amp;logoColor=white" alt="Electron"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&amp;logo=visualstudio&amp;logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&amp;logo=slack&amp;logoColor=white" alt="Slack"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&amp;logo=jira&amp;logoColor=white" alt="Jira"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat&amp;logo=notion&amp;logoColor=white" alt="Notion"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI Coding</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Codex-171717?style=flat&amp;logo=openai&amp;logoColor=white" alt="Codex"/>
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&amp;logo=claude&amp;logoColor=white" alt="Claude Code"/>
     </td>
   </tr>
 </table>
 
-
-</div>
+<p align="center">
+  <img src="./assets/ambient-bottom.svg" width="100%" alt="Ambient Gradient"/>
+</p>
